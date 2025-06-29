@@ -118,6 +118,7 @@ This project is licensed under MIT License - Feel free to use and contribute!
 
 ## 🙌 Acknowledgements
 Developed with ❤️ by Rushil Rawat.
+Special thanks to my Dad who helped me ideate and build the initial version back in 2022.
 
 Thanks for using and improving ClubConnect!
 
